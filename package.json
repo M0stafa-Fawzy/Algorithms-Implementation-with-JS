@@ -1,0 +1,11 @@
+{
+  "name": "js-algorithms-ds",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "dev": "nodemon devide-conqure"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
